@@ -1,16 +1,10 @@
 ## Dự án Admin
 
-### Backend (`admin-be`)
-```bash
-# Tạo thư mục assets
+# Backend (admin-be)
 mkdir assets
-
-# Chạy lần lượt các lệnh sau
 npm i
 node server.js
 
-### Frontend (`admin-fe`)
-```bash
-
+# Frontend (admin-fe)
 flutter pub get
 flutter run
