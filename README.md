@@ -1,8 +1,10 @@
--  admin-be
-+  Tạo folder assets
-+  Thực hiện lần lượt các lệnh sau:
-  npm i
-  node server.js
--  admin-fe
-+  flutter pub get
-+  flutter run
+## Dự án Admin
+
+### Backend (`admin-be`)
+```bash
+# Tạo thư mục assets
+mkdir assets
+
+# Chạy lần lượt các lệnh sau
+npm i
+node server.js
