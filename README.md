@@ -1,10 +1,7 @@
-## Dự án Admin
+## Backend (`admin-be`)
 
-# Backend (admin-be)
+```bash
 mkdir assets
-npm i
-node server.js
 
-# Frontend (admin-fe)
-flutter pub get
-flutter run
+```bash
+npm i
